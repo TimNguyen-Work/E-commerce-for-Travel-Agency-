@@ -1,8 +1,8 @@
-<h1> E-commerce for Travel Agency  </h1>
+<h1> Travel Booking System </h1>
 
 <h2> Introduction </h2>
 <p>
-   The E-commerce for Travel Agency is a comprehensive web-based platform designed to facilitate online shopping experiences for users. It provides a seamless interface for customers to browse, select, and purchase services. This project is built using Java Spring Boot for the backend and Angular for the frontend.
+   The Travel Booking System is a comprehensive web-based platform designed to facilitate online shopping experiences for users. It provides a seamless interface for customers to browse, select, and purchase services. This project is built using Java Spring Boot for the backend and Angular for the frontend.
 <h2> Features </h2>
 <ul> 
     <li><strong>RESTful API Implementation:</strong> Employs RESTful API endpoints for seamless communication between the frontend and backend.</li>  
